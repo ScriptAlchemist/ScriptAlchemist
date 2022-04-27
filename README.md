@@ -41,6 +41,11 @@
 <a href="https://www.instagram.com/cardanogoat.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="benderjrk instagram" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">LinkedIn Resume:</h3>
+<p align="left">
+<a href="https://github.com/Benderjrk/benderjrk/blob/main/assets/Resume-Justin-Bender.pdf" target="blank">https://github.com/Benderjrk/benderjrk/blob/main/assets/Resume-Justin-Bender.pdf</a>
+
+
 ![Benderjrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benderjrk&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benderjrk&layout=compact&theme=react)](https://github.com/Benderjrk/github-readme-stats)
 
