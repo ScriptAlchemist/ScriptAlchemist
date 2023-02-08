@@ -10,7 +10,6 @@ I enjoy strict coding design with self documenting code. If we can built it reus
 
 ### Maintainer for create-cardano-dapp: https://www.npmjs.com/package/create-cardano-dapp
 ### Maintainer for Cardano-LSD: https://www.npmjs.com/package/cardano-lsd
-### Cardano Goat Website: https://cardanogoat.io/
 
 
 ![Created :26.04.2022](https://img.shields.io/badge/githubProfile-04/26/2022-informational) &nbsp;
