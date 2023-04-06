@@ -11,7 +11,7 @@ Places Online You Can Find Me
 <tr class="odd">
 <td style="text-align: center;"><a href="https://github.com/ScriptAlchemist/jot_zettelkasten">Zettelkasten (Notes)</a></td>
 <td style="text-align: center;"><a href="https://github.com/ScriptAlchemist/cv/blob/main/Justin_Bender_Resume_2023_March.pdf">Curriculm Vitae (Resume)</a></td>
-<td><a href="https://www.instagram.com/justin.bender.experience">Instagram</a></td>
+<td><a href="https://www.instagram.com/ScriptAlchemist/">Instagram</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><a href="https://www.youtube.com/@Script_Alchemist">YouTube Channel</a></td>
