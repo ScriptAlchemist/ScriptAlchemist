@@ -2,11 +2,7 @@
    
 ### It's nice to meet you! <img src="https://github.com/Benderjrk/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Welcome Justin Bender's GitHub profile page :pirate_flag:
 
-Hi my name is Justin Bender I am currently a software engineer with a blockchain startup. After getting out of a career in professional skydiving with over 5000 jumps. I enjoy the power that technology brings to the world. One of my favorite parts is the ability to automate arbitrary tasks. We can build something and use it for years. Automation can help us spend time doing more important things. 
-
-Right now with Cardano Goat, I am working with an NFT community. Building the tools to interact with cardano wallets. It’s a very community heavy role. Keeping up with open source community tools and new standards. I enjoy bringing a positive attitude to the project. That's not the only value I can bring.
-
-I enjoy strict coding design with self documenting code. If we can built it reusable, we will. I bring a unique experience from software development, skydiving, 3d printing, CAD modeling, video game creation, photography, video editing, graphic design, social media managing and more. My favorite tech is: Next.js, TailwindCSS, TypeScript, Rust, Bash and Gun.js. I know I have lot's of room to improve but it's on the list.
+Hey, I'm Justin!
 
 ### Maintainer for create-cardano-dapp: https://www.npmjs.com/package/create-cardano-dapp
 ### Maintainer for Cardano-LSD: https://www.npmjs.com/package/cardano-lsd
