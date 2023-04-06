@@ -1,33 +1,25 @@
 
-Hey, I'm Justin!
+Hey, I'm Justin 👋 
 
-![Created :26.04.2022](https://img.shields.io/badge/githubProfile-04/26/2022-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Benderjrk&color=red)&nbsp;
-[![GitHub Benderjrk](https://img.shields.io/github/followers/Benderjrk?label=follow&style=social)](https://github.com/Benderjrk)&nbsp;
-<br></br>
-
-
-
-### 🛠 &nbsp;Experience Stack
-
-##### 🛠 &nbsp;Current (Missing a Lot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=plastic&logo=javascript)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=plastic&logo=bash)&nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=plastic&logo=node.js)&nbsp;
-![Nextjs](https://img.shields.io/badge/-Nextjs-05122A?style=plastic&logo=next.js)&nbsp;
-![Reactjs](https://img.shields.io/badge/-Reactjs-05122A?style=plastic&logo=React)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=plastic&logo=css3&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=plastic&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=plastic&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=plastic&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=plastic&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=plastic&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-05122A?style=plastic&logo=google-cloud&logoColor=4285F4)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=python)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=plastic&logo=MongoDB)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=plastic&logo=Angular)&nbsp;
-![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=plastic&logo=AngularJS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=plastic&logo=bootstrap&logoColor=563D7C)
+<center> <!-- I know, right! -->
+<table>
+<tbody>
+<thead><tr><td colspan=3>
+Places Online You Can Find Me
+</span>
+</td></tr></thead>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://github.com/ScriptAlchemist/jot_zettelkasten">Zettelkasten (Notes)</a></td>
+<td style="text-align: center;"><a href="https://github.com/ScriptAlchemist/cv">Curriculm Vitae (Resume)</a></td>
+<td><a href="https://www.instagram.com/justin.bender.experience">Instagram</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="https://www.youtube.com/@Script_Alchemist">YouTube Channel</a></td>
+<td style="text-align: center;"><a href="https://discord.gg/ghc2vp8XEn">Discord Server</a></td>
+<td style="text-align: center;"><a href="https://twitter.com/ScriptAlchemist">Twitter</a></td>
+</tr>
+</tbody>
+</table>
 
 
 <!--
