@@ -1,12 +1,5 @@
 
-   
-### It's nice to meet you! <img src="https://github.com/Benderjrk/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Welcome Justin Bender's GitHub profile page :pirate_flag:
-
 Hey, I'm Justin!
-
-### Maintainer for create-cardano-dapp: https://www.npmjs.com/package/create-cardano-dapp
-### Maintainer for Cardano-LSD: https://www.npmjs.com/package/cardano-lsd
-
 
 ![Created :26.04.2022](https://img.shields.io/badge/githubProfile-04/26/2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Benderjrk&color=red)&nbsp;
@@ -36,20 +29,6 @@ Hey, I'm Justin!
 ![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=plastic&logo=AngularJS)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=plastic&logo=bootstrap&logoColor=563D7C)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Cardano_G_O_A_T" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="benderjrk twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/benderjustin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="benderjrk linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cardanogoat.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="benderjrk instagram" height="30" width="40" /></a>
-</p>
-
-<!-- <h3 align="left">LinkedIn Resume:</h3>
-<p align="left">
-<a href="https://github.com/Benderjrk/benderjrk/blob/main/assets/Resume-Justin-Bender.pdf" target="blank">https://github.com/Benderjrk/benderjrk/blob/main/assets/Resume-Justin-Bender.pdf</a>
--->
-
-![Benderjrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benderjrk&hide=contribs,prs&include_all_commits=true&count_private=true&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benderjrk&layout=compact&theme=react)](https://github.com/Benderjrk/github-readme-stats)
 
 <!--
 **Benderjrk/benderjrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
