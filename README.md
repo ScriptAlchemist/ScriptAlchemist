@@ -3,7 +3,7 @@ Hey, I'm Justin 👋
 
 As a former professional skydiver with over 5,000 jumps under my belt, I have developed a keen understanding of the importance of precision, teamwork, and adaptability. These qualities have translated well into my experience working in technology, where I have excelled in various roles such as software development, 3D printing, CAD modeling, and even community-heavy projects like Cardano Goat, an NFT community where I built tools to interact with Cardano wallets.
 
-My expertise in Next.js, TailwindCSS, TypeScript, Golang, and Automation, coupled with my experience in graphic design, social media management, and more, has honed my ability to build reusable and self-documenting code. I pride myself on following strict coding design principles, ensuring that the technology I create is efficient and sustainable.
+My expertise in JavaScript, TypeScript, Golang, and Rust, coupled with my experience in systems design, software development, automation. I've been honing my ability to build reusable and self-documenting code. I pride myself on following strict coding design principles, ensuring that the technology I create is efficient and sustainable.
 
 <center> <!-- I know, right! -->
 <table>
