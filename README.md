@@ -9,6 +9,7 @@ Places Online You Can Find Me
 </span>
 </td></tr></thead>
 <tr class="odd">
+<td style="text-align: center;"><a href="https://somescripting.com">Some(Scripting)</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><a href="https://twitter.com/ScriptAlchemist">Twitter</a></td>
